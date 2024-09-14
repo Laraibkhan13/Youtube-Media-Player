@@ -30,10 +30,11 @@ This is a YouTube Media Player built using React and integrated with the YouTube
      npm start
   
 # Usage
-Type in your search query in the search bar to find YouTube videos.
-Click on any result to play the video without ads.
-Technologies Used
-React: Frontend framework for building the user interface.
-YouTube V3 API (via RapidAPI): Fetches video data from YouTube.
-CSS: For styling the interface.
+**Type in your search query in the search bar to find YouTube videos.**
+**Click on any result to play the video without ads.**
+
+# Technologies Used
+**React: Frontend framework for building the user interface.**
+**YouTube V3 API (via RapidAPI): Fetches video data from YouTube.**
+**CSS: For styling the interface.**
 
